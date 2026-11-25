@@ -1,4 +1,5 @@
-# Airbnb-360--PowerBI
+# <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/9aaacdb8-b445-4130-85c6-73a89b50e3cc" />
+Airbnb-360--PowerBI
 Power BI dashboard connecting Airbnb app reviews with ABNB stock performance.
 # Stock, Guest Sentiment & Hospitality
 
